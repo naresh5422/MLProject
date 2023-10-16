@@ -3,4 +3,5 @@ numpy
 seaborn
 matplotlib
 opencv-python
--e .
+scikit-learn
+#-e .
