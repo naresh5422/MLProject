@@ -4,4 +4,4 @@ seaborn
 matplotlib
 opencv-python
 scikit-learn
-#-e .
+# -e .
